@@ -1,12 +1,8 @@
-## Hi there 👋
+## Добро пожаловать в наше сообщество, Налсур-Пати! 👋
 
-<!--
+Эта организация объединяет сообщество Налсур-Пати, созданное для любителей игр, настольных игр и разработчиков. В этой организации мы общаемся, работаем и разрабатываем всякое!
 
-**Here are some ideas to get you started:**
+## Как присоединиться и общаться с нами в Discord?
+Присоединяйтесь к нам, перейдя по [ссылке приглашения на сервер Discord](https://discord.gg/krDYq3wFch).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Мы рады видеть вас в нашем сообществе! Давайте вместе делать наше сообщество еще лучше и интереснее!
